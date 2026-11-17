@@ -1,0 +1,6 @@
+{
+  "name": "RANI AI",
+  "description": "Next-generation multilingual (Hindi, English, Hinglish) voice-controlled personal Android AI assistant with smart confirmations, accessibility automation, calling, messaging, and Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
