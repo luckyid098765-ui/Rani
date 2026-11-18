@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">RANI AI</string>
+    <string name="app_tagline">Your Phone, Your Voice, Your AI.</string>
+    <string name="accessibility_service_description">RANI AI Accessibility lets you scroll Reels/Shorts, tap buttons (Like, Share, Follow, Subscribe, Comment), type voice text, and open chats inside supported apps only when you ask. RANI AI never reads password fields or bypasses app security.</string>
+    <string name="notification_listener_description">Allows RANI AI to read and summarize incoming notifications (such as WhatsApp messages) only when you ask.</string>
+    <string name="wake_word_notification_title">RANI AI Wake-Word Active</string>
+    <string name="wake_word_notification_text">Listening for \"Hey Rani\" or \"Rani\". Tap Stop anytime for privacy.</string>
+    <string name="nav_rani">Rani</string>
+    <string name="nav_actions">Actions</string>
+    <string name="nav_activity">Activity</string>
+    <string name="nav_access">Access</string>
+    <string name="ai_firebase_notice">Sample AI response: Live Gemini intelligence &amp; image generation require Firebase AI Logic to be enabled.</string>
 </resources>
